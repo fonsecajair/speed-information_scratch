@@ -1,0 +1,52 @@
+Assunto:
+x-software
+Software é um conjunto de instruções que 
+informam a um computador o que fazer.
+
+x-hardware
+HARDWARE são os componentes físicos de um 
+computador, como o processador, memória, 
+disco rígido (HD), monitor, teclado e mouse.
+
+x-update
+UPDATE é uma alteração feita em software, 
+hardware ou firmware para corrigir erros, 
+adicionar novos recursos ou melhorar a 
+funcionalidade existente.
+
+x-backup
+BACKUP é uma cópia de dados que pode 
+ser usada para restaurá-los 
+se forem perdidos ou corrompidos.
+
+x-hacker
+HACKER é alguém muito habilidoso em programação 
+e solução de problemas, ou de forma negativa 
+para descrever alguém que invade sistemas de computador sem autorização
+
+gabarito questões: bcbaa
+
+FAZER:
+ok - colisão carro-carro
+ok - colisão carro-lateral
+ok - tela inicial com botão de inicio
+ok - barreira lateral
+ok - exibir perguntas ao usuário durante o percurso (V ou F)
+ok - parar a "produção" dos carros durante a pergunta
+ok - não parar de correr (mesmo na pergunta)
+ok - movimentação dos carros (referencial = rua)
+ok - faixa de carros
+- árvores e plantas
+- tela game over
+- tela final
+
+EXTRAS:
+- cenários (floresta, deserto, cidade) diferentes para cada level
+- transição de um cenário pro outro (túnel + carro acelera sozinho)
+- carro2 para produção durante transição
+- animacao carro bate
+- animacao carro descontrolado depois de errar pergunta
+- faixa de pedestres
+- pedestres na faixa
+- carros parados antes da faixa. Pra não ter chance de atropelar)
+- túneis quando acertar pergunta (próxima fase)
